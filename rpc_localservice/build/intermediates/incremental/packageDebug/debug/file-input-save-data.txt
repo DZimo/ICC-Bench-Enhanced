@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 16 21:50:09 CEST 2025
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Admin\\Desktop\\Enhanced_benchmark\\ICC-Bench-master\\rpc_localservice\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
